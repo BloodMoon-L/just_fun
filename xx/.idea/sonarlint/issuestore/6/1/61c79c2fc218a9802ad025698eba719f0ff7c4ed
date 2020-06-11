@@ -1,0 +1,9 @@
+
+~squid:UselessImportCheck"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8©¶žÁ©.
+qsquid:UselessImportCheck"IRemove this unused import 'com.baomidou.mybatisplus.core.toolkit.Assert'.(°÷ÁS8©¶žÁ©.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù¸êÂ8©¶žÁ©.
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8©¶žÁ©.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÔçb8ò×­æ©.
+wsquid:UselessImportCheck"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8©¶žÁ©.
